@@ -135,7 +135,7 @@ we are nothing without your support please support us to bring more features in 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/athulx80/Auto-filter-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/Kushalhk/TG_BOTZ">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
