@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Kushalhk/Shareus",
-    "repository": "https://github.com/Kushalhk/Shareus",
+    "website": "https://github.com/athulx80/Auto-filter-Bot",
+    "repository": "https://github.com/athulx80/Auto-filter-Bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
